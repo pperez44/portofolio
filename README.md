@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository. This is where I document my project
 ## Security
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/pperez44/portofolio/badge)](https://scorecard.dev/viewer/?uri=github.com/pperez44/portofolio)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/PLACEHOLDER/badge)](https://www.bestpractices.dev/projects/PLACEHOLDER)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12437/badge)](https://www.bestpractices.dev/projects/12437)
 
 ## About Me
 
